@@ -1,0 +1,47 @@
+{
+  "index.qmd": {
+    "index.html": "77af7403"
+  },
+  "about.qmd": {
+    "about.html": "c556f080"
+  },
+  "Example 1.qmd": {
+    "Example 1.html": "62665937"
+  },
+  "Example-1.qmd": {
+    "Example-1.html": "04bce0df"
+  },
+  "Example-2.qmd": {
+    "Example-2.html": "82c8e571"
+  },
+  "Example-3.qmd": {
+    "Example-3.html": "8517c49f"
+  },
+  "Example-4.qmd": {
+    "Example-4.html": "f4519f29"
+  },
+  "Example-1a.qmd": {
+    "Example-1a.html": "07044280"
+  },
+  "Sara-1.qmd": {
+    "Sara-1.html": "3fcb2fbf"
+  },
+  "Sara-2.qmd": {
+    "Sara-2.html": "c2d5e2e3"
+  },
+  "Marcose-1.qmd": {
+    "Marcose-1.html": "521f0306"
+  },
+  "Marcos-1.qmd": {
+    "Marcos-1.html": "f5b0ca3c"
+  },
+  "Marcos-2.qmd": {
+    "Marcos-2.html": "f5e2b659"
+  },
+  "Marcos-3.qmd": {
+    "Marcos-3.html": "643906c6"
+  },
+  "Ahmed-1.qmd": {
+    "Ahmed-1.html": "0c3a0af6"
+  }
+}

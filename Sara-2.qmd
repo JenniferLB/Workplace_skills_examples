@@ -1,0 +1,69 @@
+---
+title: "Temporary employment - bivariate relationships"
+---
+
+## Context
+
+Sara wants to examine if job permanency affects job satisfaction. She thinks that non-permanent (temporary) employees might have lower levels of job satisfaction because they feel less secure. She has identified relevant variables and is keen to explore the data.
+
+## What techniques?
+
+1.  Sarah works on her research questions and starts to think about the techniques can she use. For each of the research questions below, select an appropriate method of exploring the relationship.
+
+-   a\. Is there any gender difference in permanent employment?
+
+-   b\. Is job permanency related to usual hours worked (i.e. are those in non-permanent jobs likely to work more hours)?
+
+-   c\. Do those with a permanent job report higher levels of job satisfaction?
+
+### Permanency
+
+Here is some information about the variables to help you consider level of measurement.
+
+![](images/clipboard-1547536417.png)
+
+### Job satisfaction
+
+![](images/clipboard-1187906516.png)
+
+### Hours worked
+
+![](images/clipboard-3868221106.png)
+
+## Crosstabulation: gender differences in permanent employment
+
+Sara is eager to look at the data. She creates the following table to examine if there are gender differences in permanent employment.
+
+![](images/clipboard-3075133801.png){width="782"}
+
+3.  Based on this table, which of the following can she conclude?
+
+    a\) 4.9% of those in 'temporary employment with no agreed end date' are women
+
+    b\) 91.5% of females are in permanent employment
+
+    c\) A and B
+
+    d\) None
+
+## Examining hours worked by job permanency?
+
+Is job permanency related to usual hours worked (i.e. are those in non-permanent jobs likely to work more hours or less hours)? For this question, Sara gets the following output.
+
+![](images/clipboard-533764000.png)
+
+4.  Which of the following are correct? \[more than one can be correct\]
+
+    a\) Those with a permanent job work more hours on average.
+
+    b\) Those in non-permanent jobs work more on average.
+
+    c\) Working hours vary more among those in non-permanent jobs.
+
+    d\) Working hours vary more among those in permanent jobs.
+
+> ## Questions to think about
+>
+> -   Why do those in permanent positions work more hours? How should this be considered in the data analysis?
+>
+> -   Do you think these differences are statistically significant?

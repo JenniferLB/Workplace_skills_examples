@@ -1,0 +1,21 @@
+---
+title: "Dissertation help!"
+---
+
+Use your knowledge to help these fellow dissertation students with their data analysis!
+
+These are a collection of (fictitious) examples of simple quantitative data analysis. Each example includes questions to answer. They are designed to support learning on BMAN60261 Workplace Research and Analysis.
+
+Answers to the questions will be made available.  
+
+-   [Sara 1: Temporary employment - summarising variables](Sara-1.qmd)
+
+-   [Sara 2: Temporary employment - bivariate relationships](Sara-2.qmd)
+
+-   [Ahmed 1: Trade unions and maternity benefits - crosstabulation and chi-square test](Ahmed-1.qmd)
+
+-   [Marcos 1: Dimensions of work-related stress reviews - a correlation matrix](Marcos-1.qmd)
+
+-   [Marcos 2: Using regression to examine work-related stress](Marcos-2.qmd)
+
+-   [Marcos 3: Adding more variables in a hierarchical approach](Marcos-3.qmd)

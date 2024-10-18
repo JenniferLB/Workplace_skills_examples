@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dissertation help!"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Sara-1.qmd
+        text: Sara 1
+      - href: Sara-2.qmd
+        text: Sara 2
+      - href: Ahmed-1.qmd
+        text: Ahmed 1
+      - href: Marcos-1.qmd
+        text: Marcos 1 
+      - href: Marcos-2.qmd
+        text: Marcos 2
+      - href: Marcos-3.qmd
+        text: Marcos 3
+ 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,67 @@
+---
+title: "Temporary employment - summarising variables"
+---
+
+## Context
+
+Sara has decided to examine job permanency. She is interested in how job permanency affects job satisfaction. She thinks that non-permanent employees might have lower levels of job satisfaction because they feel less secure and are under more pressure to show their value. She also thinks that they are likely to work more hours because they feel less secure.
+
+She knows there is some relevant data in the Workplace Employment Relations (WERS) Employee Questionnaire. But she’s confused about the variables and what techniques to use.
+
+## Variables
+
+### Permanency
+
+Sara would like to use the following question to identify those with permanent and non-permanent jobs.
+
+![](images/clipboard-1547536417.png)
+
+1.  What level of measurement would the variable in the dataset have?
+
+2.  She knows she needs to examine the distribution of the above variable, which techniques would be best? \[more than one option can be correct\]
+
+-   Mean
+
+-   Standard deviation
+
+-   Frequency table
+
+-   Median
+
+-   Histogram
+
+-   Bar chart
+
+### Job satisfaction
+
+In relation to job satisfaction, Sara found the following variable.
+
+![](images/clipboard-1187906516.png)
+
+What level of measurement does it have?
+
+Which of the following techniques can be used to examine the distriubtion of responses? \[more than option can be correct\]
+
+-   Mean
+
+-   Standard deviation
+
+-   Frequency table
+
+-   Median
+
+-   Histogram
+
+-   Bar chart
+
+### Hours worked
+
+Sarah would like to consider the number of hours people work. She finds the following variable.
+
+![](images/clipboard-3868221106.png)
+
+1.  What level of measurement is it?
+
+2.  What type of figure is presented above?
+
+3.  How can we describe the distribution?

@@ -1,0 +1,268 @@
+[
+  {
+    "objectID": "Sara-2.html",
+    "href": "Sara-2.html",
+    "title": "Temporary employment - bivariate relationships",
+    "section": "",
+    "text": "Sara wants to examine if job permanency affects job satisfaction. She thinks that non-permanent (temporary) employees might have lower levels of job satisfaction because they feel less secure. She has identified relevant variables and is keen to explore the data."
+  },
+  {
+    "objectID": "Sara-2.html#context",
+    "href": "Sara-2.html#context",
+    "title": "Temporary employment - bivariate relationships",
+    "section": "",
+    "text": "Sara wants to examine if job permanency affects job satisfaction. She thinks that non-permanent (temporary) employees might have lower levels of job satisfaction because they feel less secure. She has identified relevant variables and is keen to explore the data."
+  },
+  {
+    "objectID": "Sara-2.html#what-techniques",
+    "href": "Sara-2.html#what-techniques",
+    "title": "Temporary employment - bivariate relationships",
+    "section": "What techniques?",
+    "text": "What techniques?\n\nSarah works on her research questions and starts to think about the techniques can she use. For each of the research questions below, select an appropriate method of exploring the relationship.\n\n\na. Is there any gender difference in permanent employment?\nb. Is job permanency related to usual hours worked (i.e. are those in non-permanent jobs likely to work more hours)?\nc. Do those with a permanent job report higher levels of job satisfaction?\n\n\nPermanency\nHere is some information about the variables to help you consider level of measurement.\n\n\n\nJob satisfaction\n\n\n\nHours worked"
+  },
+  {
+    "objectID": "Sara-2.html#crosstabulation-gender-differences-in-permanent-employment",
+    "href": "Sara-2.html#crosstabulation-gender-differences-in-permanent-employment",
+    "title": "Temporary employment - bivariate relationships",
+    "section": "Crosstabulation: gender differences in permanent employment",
+    "text": "Crosstabulation: gender differences in permanent employment\nSara is eager to look at the data. She creates the following table to examine if there are gender differences in permanent employment.\n\n\nBased on this table, which of the following can she conclude?\na) 4.9% of those in ‘temporary employment with no agreed end date’ are women\nb) 91.5% of females are in permanent employment\nc) A and B\nd) None"
+  },
+  {
+    "objectID": "Sara-2.html#examining-hours-worked-by-job-permanency",
+    "href": "Sara-2.html#examining-hours-worked-by-job-permanency",
+    "title": "Temporary employment - bivariate relationships",
+    "section": "Examining hours worked by job permanency?",
+    "text": "Examining hours worked by job permanency?\nIs job permanency related to usual hours worked (i.e. are those in non-permanent jobs likely to work more hours or less hours)? For this question, Sara gets the following output.\n\n\nWhich of the following are correct? [more than one can be correct]\na) Those with a permanent job work more hours on average.\nb) Those in non-permanent jobs work more on average.\nc) Working hours vary more among those in non-permanent jobs.\nd) Working hours vary more among those in permanent jobs.\n\n\nQuestions to think about\n\nWhy do those in permanent positions work more hours? How should this be considered in the data analysis?\nDo you think these differences are statistically significant?"
+  },
+  {
+    "objectID": "Marcos-3.html",
+    "href": "Marcos-3.html",
+    "title": "Adding more variables in a hierarchical approach",
+    "section": "",
+    "text": "Marcos has created three models in a hierarchical approach. He wants to know how employee perceptions of their work including a sense of achievement and a sense of time to get things done relates to work stress.\n\nModel 1 is the model presented above.\nModel 2 includes the same as model 1 plus dummy variables indicated sense of achievement.\nModel 3 adds a further variable for the feeling of time to get things done."
+  },
+  {
+    "objectID": "Marcos-3.html#context",
+    "href": "Marcos-3.html#context",
+    "title": "Adding more variables in a hierarchical approach",
+    "section": "",
+    "text": "Marcos has created three models in a hierarchical approach. He wants to know how employee perceptions of their work including a sense of achievement and a sense of time to get things done relates to work stress.\n\nModel 1 is the model presented above.\nModel 2 includes the same as model 1 plus dummy variables indicated sense of achievement.\nModel 3 adds a further variable for the feeling of time to get things done."
+  },
+  {
+    "objectID": "Marcos-3.html#model-summary",
+    "href": "Marcos-3.html#model-summary",
+    "title": "Adding more variables in a hierarchical approach",
+    "section": "Model summary",
+    "text": "Model summary\nHere is the model summary information for the three variables.\n\nThe improvement in the variance explained is greatest between model 1 and model 2. Is this statement, true or false?\nModel 3 accounts for 17 percent of the variation in feeling worried. Is this true or False?\n\n\n\n\n\n\n\n\n\n\n\nModel\nR\nR Square\nAdjusted R Square\nStd. Error of the Estimate\n\n\n1\n.180a\n.032\n.032\n.971\n\n\n2\n.243b\n.059\n.059\n.957\n\n\n3\n.414c\n.171\n.171\n.898"
+  },
+  {
+    "objectID": "Marcos-3.html#model-coefficients",
+    "href": "Marcos-3.html#model-coefficients",
+    "title": "Adding more variables in a hierarchical approach",
+    "section": "Model coefficients",
+    "text": "Model coefficients\nThe coefficients of the model are below. Using the information below and above, write 3 sentences to summarise the model results.\n\n\n\n\n\n\n\n\n\n\n\n\nB\nStd. Error\nBeta\nt\nSig.\n\n\nModel 1\n\n\n\n\n\n\n\nIntercept\n3.698\n.018\n\n205.330\n.000\n\n\nyears working at this  workplace\n-.012\n.005\n-.017\n-2.487\n.013\n\n\nmale\n.090\n.013\n.045\n6.671\n.000\n\n\nsupervisor\n-.363\n.014\n-.175\n-25.446\n.000\n\n\nModel 2\n\n\n\n\n\n\n\n(Constant)\n3.667\n.022\n\n164.146\n.000\n\n\nyears working at this  workplace\n-.010\n.005\n-.013\n-1.976\n.048\n\n\nmale\n.107\n.013\n.054\n8.019\n.000\n\n\nsupervisor\n-.391\n.014\n-.189\n-27.576\n.000\n\n\nNo sense of achievement (baseline neutral)\n-.437\n.025\n-.135\n-17.259\n.000\n\n\nSense of achievement (baseline neutral)\n.100\n.017\n.047\n5.892\n.000\n\n\nModel 3\n\n\n\n\n\n\n\n(Constant)\n2.676\n.028\n\n95.636\n.000\n\n\nyears working at this  workplace\n.019\n.005\n.026\n4.070\n.000\n\n\nmale\n.073\n.013\n.037\n5.798\n.000\n\n\nsupervisor\n-.242\n.014\n-.117\n-17.827\n.000\n\n\nNo sense of achievement (baseline neutral)\n-.355\n.024\n-.110\n-14.892\n.000\n\n\nSense of achievement (baseline neutral)\n.084\n.016\n.039\n5.267\n.000\n\n\nnever seem to have enough time to get work done (low score=more agreement)\n.315\n.006\n.347\n53.494\n.000"
+  },
+  {
+    "objectID": "Marcos-1.html",
+    "href": "Marcos-1.html",
+    "title": "Dimensions of work-related stress - correlations",
+    "section": "",
+    "text": "Marcos is examining work-related stress. He does an initial search of a relevant dataset and he finds several variables relating to different aspects of work related stress. To understand the data better he wants to examine the relationships between these variables."
+  },
+  {
+    "objectID": "Marcos-1.html#context",
+    "href": "Marcos-1.html#context",
+    "title": "Dimensions of work-related stress - correlations",
+    "section": "",
+    "text": "Marcos is examining work-related stress. He does an initial search of a relevant dataset and he finds several variables relating to different aspects of work related stress. To understand the data better he wants to examine the relationships between these variables."
+  },
+  {
+    "objectID": "Marcos-1.html#measure-of-work-stress",
+    "href": "Marcos-1.html#measure-of-work-stress",
+    "title": "Dimensions of work-related stress - correlations",
+    "section": "Measure of work stress",
+    "text": "Measure of work stress\nThe variables each record responses to questions asking for agreement with one of the following statements:\n\nMy job requires that I work very hard.\nI never seem to have enough time to get my work done.\nI feel my job is secure in this workplace.\nI worry a lot about my work outside working hours.\n\nLower score = more agreement with the statement."
+  },
+  {
+    "objectID": "Marcos-1.html#correlations",
+    "href": "Marcos-1.html#correlations",
+    "title": "Dimensions of work-related stress - correlations",
+    "section": "Correlations",
+    "text": "Correlations\nHe wants to examine the strenght of association between these variables. He looks at the correlations between them using a correlation matrix.\n\nIdentify which values are the correlation coefficients and determine:\n\nthe strongest association?\nthe weakest association?\n\nThis table reports the Spearman’s rank correlation coefficients, why might this be the best choice in the situation?"
+  },
+  {
+    "objectID": "Example-2.html",
+    "href": "Example-2.html",
+    "title": "Dimensions of work-related stress",
+    "section": "",
+    "text": "Marcos is examining work-related stress. From an initial search of a datasets, he finds several relevant variables, each of which captures agreement with one of the following statements:\n\nMy job requires that I work very hard\nI never seem to have enough time to get my work done\nI feel my job is secure in this workplace\nI worry a lot about my work outside working hours\n\nLower score = more agreement with the statement. \nHe wants to examine how strongly related these variables are to each other. He looks at the correlations between them using a correlation matrix.\n\nIdentify which values are the correlation coefficients and determine:\n\nthe strongest association?\nthe weakest association?\n\nThis table reports the Spearman’s rank correlation coefficients, why might this be the best choice in the situation?"
+  },
+  {
+    "objectID": "Example-2.html#context",
+    "href": "Example-2.html#context",
+    "title": "Dimensions of work-related stress",
+    "section": "",
+    "text": "Marcos is examining work-related stress. From an initial search of a datasets, he finds several relevant variables, each of which captures agreement with one of the following statements:\n\nMy job requires that I work very hard\nI never seem to have enough time to get my work done\nI feel my job is secure in this workplace\nI worry a lot about my work outside working hours\n\nLower score = more agreement with the statement. \nHe wants to examine how strongly related these variables are to each other. He looks at the correlations between them using a correlation matrix.\n\nIdentify which values are the correlation coefficients and determine:\n\nthe strongest association?\nthe weakest association?\n\nThis table reports the Spearman’s rank correlation coefficients, why might this be the best choice in the situation?"
+  },
+  {
+    "objectID": "Example-1.html",
+    "href": "Example-1.html",
+    "title": "Temporary employment",
+    "section": "",
+    "text": "Sara wants to examine if job permanency affects job satisfaction. She thinks that non-permanent (temporary) employees might have lower levels of job satisfaction because they feel less secure.  She knows there is some relevant data in the Workplace Employment Relations (WERS) Employee Questionnaire. But she’s confused about the variables and what techniques to use."
+  },
+  {
+    "objectID": "Example-1.html#context",
+    "href": "Example-1.html#context",
+    "title": "Temporary employment",
+    "section": "",
+    "text": "Sara wants to examine if job permanency affects job satisfaction. She thinks that non-permanent (temporary) employees might have lower levels of job satisfaction because they feel less secure.  She knows there is some relevant data in the Workplace Employment Relations (WERS) Employee Questionnaire. But she’s confused about the variables and what techniques to use."
+  },
+  {
+    "objectID": "Example-1.html#variables",
+    "href": "Example-1.html#variables",
+    "title": "Temporary employment",
+    "section": "Variables",
+    "text": "Variables\n\nPermanency\nSara would like to use the following question to identify those with permanent and non-permanent jobs.\n\n\nWhat level of measurement would the variable in the dataset have?\nShe knows she needs to examine the distribution of the above variable, which techniques would be best? [more than one option can be correct]\n\n\nMean\nStandard deviation\nFrequency table\nMedian\nHistogram\nBar chart\n\n\n\nJob satisfaction\nIn relation to job satisfaction, Sara found the following variable.\n\nWhat level of measurement does it have?\nWhich of the following techniques can be used to examine the distriubtion of responses? [more than option can be correct]\n\nMean\nStandard deviation\nFrequency table\nMedian\nHistogram\nBar chart\n\n\n\nHours worked\nSarah would like to consider the number of hours people work. She finds the following variable.\n\n\nWhat level of measurement is it?\nWhat type of figure is presented above?\nHow can we describe the distribution?"
+  },
+  {
+    "objectID": "Example-1.html#crosstabulation-gender-differences-in-permanent-employment",
+    "href": "Example-1.html#crosstabulation-gender-differences-in-permanent-employment",
+    "title": "Temporary employment",
+    "section": "Crosstabulation: gender differences in permanent employment",
+    "text": "Crosstabulation: gender differences in permanent employment\nSara is eager to look at the data. She creates the following table to examine if there are gender differences in permanent employment.\n\n\nBased on this table, which of the following can she conclude?\na) 4.9% of those in ‘temporary employment with no agreed end date’ are women\nb) 91.5% of females are in permanent employment\nc) A and B\nd) None"
+  },
+  {
+    "objectID": "Example-1.html#examining-hours-worked-by-job-permanency",
+    "href": "Example-1.html#examining-hours-worked-by-job-permanency",
+    "title": "Temporary employment",
+    "section": "Examining hours worked by job permanency?",
+    "text": "Examining hours worked by job permanency?\nIs job permanency related to usual hours worked (i.e. are those in non-permanent jobs likely to work more hours or less hours)? For this question, Sara gets the following output.\n\n\nWhich of the following are correct? [more than one can be correct]\na) Those with a permanent job work more hours on average.\nb) Those in non-permanent jobs work more on average.\nc) Working hours vary more among those in non-permanent jobs.\nd) Working hours vary more among those in permanent jobs.\n\n\nQuestions to think about\n\nHow can she examine the relationship between permanency and satisfaction?\nWhy do those in permanent positions work more hours? How should this be considered in the data analysis?\nDo you think these differences are statistically significant?"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Ahmed-1.html",
+    "href": "Ahmed-1.html",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "",
+    "text": "Ahmed is interested in examining the impact of trade unions. Specifically, he wants to investigate the following question:\n\nDo workplaces with trade unions offer better maternity benefits?\n\nHe has the following ideas:\n\nYes, they will do because trade unions negotiate for better employee benefits. A causal relationship.\nYes, there will be an association because workplaces open to trade union membership treat employees better generally. An association due to some general approach taken by employers.\n\nEither 1 or 2 suggest we should find some association."
+  },
+  {
+    "objectID": "Ahmed-1.html#context",
+    "href": "Ahmed-1.html#context",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "",
+    "text": "Ahmed is interested in examining the impact of trade unions. Specifically, he wants to investigate the following question:\n\nDo workplaces with trade unions offer better maternity benefits?\n\nHe has the following ideas:\n\nYes, they will do because trade unions negotiate for better employee benefits. A causal relationship.\nYes, there will be an association because workplaces open to trade union membership treat employees better generally. An association due to some general approach taken by employers.\n\nEither 1 or 2 suggest we should find some association."
+  },
+  {
+    "objectID": "Ahmed-1.html#hypotheses",
+    "href": "Ahmed-1.html#hypotheses",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "Hypotheses",
+    "text": "Hypotheses\n\nTranslate his theory into hypothesis to test:\n\n\nH0=?\nH1=?"
+  },
+  {
+    "objectID": "Ahmed-1.html#frequencies",
+    "href": "Ahmed-1.html#frequencies",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "Frequencies",
+    "text": "Frequencies\nBelow us a summary of the two variables.\nAre any of the employees here members of a trade union or independent staff association?\n\n\n\n\n\n\n\n\n\nFrequency\nPercent\n\n\nYes\n1326\n57.8\n\n\nNo\n969\n42.2\n\n\nTotal\n2295\n100.0\n\n\n\nWould any female employees going on maternity leave from this workplace receive their normal, full rate of pay?\n\n\n\n\n\n\n\n\n\n\nFrequency\nPercent\nValid Percent\n\n\nYes\n1360\n59.3\n62.6\n\n\nNo\n813\n35.4\n37.4\n\n\nTotal\n2173\n94.7\n100.0\n\n\nRefusal\n6\n.3\n\n\n\nDon’t know\n68\n3.0\n\n\n\nNot applicable\n48\n2.1\n\n\n\nTotal\n122\n5.3"
+  },
+  {
+    "objectID": "Ahmed-1.html#crosstabulation",
+    "href": "Ahmed-1.html#crosstabulation",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "Crosstabulation",
+    "text": "Crosstabulation\nAhemed examines a crosstabulation with:\n\nEmployees members of a trade union (yes/no) in the columns\nMaternity pay=full pay (yes/no) in the rows\n\n\nColumn percentages\nAhmed creates the table using column percentages.\n\n\nWhat percentage of workplaces with trade union members does maternity pay equal full pay?\nWhat percentage of workplaces with no trade union members does maternity pay equal to full pay?\nWhat percentage of all work places does maternity pay equal to full pay?\n\n\n\nRow percentages\nAhmed creates the table with row percentages.\n\n\nWhat percentage of workplaces have trade unions and are trade unions more or less common in workplaces where maternity pay equals full pay?\nWhy do the row and column percentages differ here?"
+  },
+  {
+    "objectID": "Ahmed-1.html#chi-square-test",
+    "href": "Ahmed-1.html#chi-square-test",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "Chi-square test",
+    "text": "Chi-square test\nAhmed examines a chi-square test. What does he conclude?"
+  },
+  {
+    "objectID": "Example-1a.html",
+    "href": "Example-1a.html",
+    "title": "Temporary employment - summarising variables",
+    "section": "",
+    "text": "Sara has decided to examine job permanency. She is interested in how job permanency affects job satisfaction. She thinks that non-permanent employees might have lower levels of job satisfaction because they feel less secure and are under more pressure to show their value. She also thinks that they are likely to work more hours because they feel less secure.\nShe knows there is some relevant data in the Workplace Employment Relations (WERS) Employee Questionnaire. But she’s confused about the variables and what techniques to use."
+  },
+  {
+    "objectID": "Example-1a.html#context",
+    "href": "Example-1a.html#context",
+    "title": "Temporary employment - summarising variables",
+    "section": "",
+    "text": "Sara has decided to examine job permanency. She is interested in how job permanency affects job satisfaction. She thinks that non-permanent employees might have lower levels of job satisfaction because they feel less secure and are under more pressure to show their value. She also thinks that they are likely to work more hours because they feel less secure.\nShe knows there is some relevant data in the Workplace Employment Relations (WERS) Employee Questionnaire. But she’s confused about the variables and what techniques to use."
+  },
+  {
+    "objectID": "Example-1a.html#variables",
+    "href": "Example-1a.html#variables",
+    "title": "Temporary employment - summarising variables",
+    "section": "Variables",
+    "text": "Variables\n\nPermanency\nSara would like to use the following question to identify those with permanent and non-permanent jobs.\n\n\nWhat level of measurement would the variable in the dataset have?\nShe knows she needs to examine the distribution of the above variable, which techniques would be best? [more than one option can be correct]\n\n\nMean\nStandard deviation\nFrequency table\nMedian\nHistogram\nBar chart\n\n\n\nJob satisfaction\nIn relation to job satisfaction, Sara found the following variable.\n\nWhat level of measurement does it have?\nWhich of the following techniques can be used to examine the distriubtion of responses? [more than option can be correct]\n\nMean\nStandard deviation\nFrequency table\nMedian\nHistogram\nBar chart\n\n\n\nHours worked\nSarah would like to consider the number of hours people work. She finds the following variable.\n\n\nWhat level of measurement is it?\nWhat type of figure is presented above?\nHow can we describe the distribution?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dissertation help!",
+    "section": "",
+    "text": "Use your knowledge to help these fellow dissertation students with their data analysis!\nThese are a collection of (fictitious) examples of simple quantitative data analysis. Each example includes questions to answer. They are designed to support learning on BMAN60261 Workplace Research and Analysis.Answers to the questions will be posted later to aid revision.\n\nSara 1: Temporary employment - summarising variables\nSara 2: Temporary employment - bivariate relationships\nAhmed 1: Trade unions and maternity benefits - crosstabulation and chi-square test\nMarcos 1: Dimensions of work-related stress reviews - a correlation matrix\nMarcos 2: Using regression to examine work-related stress\nMarcos 3: Adding more variables in a hierarchical approach"
+  },
+  {
+    "objectID": "Marcos-2.html",
+    "href": "Marcos-2.html",
+    "title": "Using regression to examine work-related stress",
+    "section": "",
+    "text": "Marcos is examining work related stress. He wants to use regression analysis to examine factors associated with higher levels of work-related stress. He theorises that more hours working increases the chance of work-related stress."
+  },
+  {
+    "objectID": "Marcos-2.html#context",
+    "href": "Marcos-2.html#context",
+    "title": "Using regression to examine work-related stress",
+    "section": "",
+    "text": "Marcos is examining work related stress. He wants to use regression analysis to examine factors associated with higher levels of work-related stress. He theorises that more hours working increases the chance of work-related stress."
+  },
+  {
+    "objectID": "Marcos-2.html#a-simple-linear-regression-model",
+    "href": "Marcos-2.html#a-simple-linear-regression-model",
+    "title": "Using regression to examine work-related stress",
+    "section": "A simple linear regression model",
+    "text": "A simple linear regression model\nHe starts with a simple model examining how frequency of feeling worried about work relates to the number of hours worked.\n\nWhich is the dependent and independent variable?\nAccording to the information, does Model 1 suggests that working hours accounts for\n\na) 15 % of the variance in feeling worried\nb) 22% of the variance in feeling worried\nc) 2.2% of the variance in feeling worried\n\n\n\n\nThe F ratio implies the model is significant. Is this true or false?\nThe model predicts that a 1 unit increase in working hours results in a -0.012 decrease in scores for worry over job (Note: lower scores indicate more worry.) Is the coefficient statistically significant?\nOverall, which of the following statements do the results support?\n\na) On average an increase in working hours is associated with lower scores on the feeling worried variable (therefore feel more worried) but the association is not statistically significant.\nb) Working hours explains 22% of the variation in job stress.\nc) There is a statistically significant effect of working hours on job stress but working hours does not account for much of the variation in job stress.\n\n\n6. Summarise the results in one sentence."
+  },
+  {
+    "objectID": "Marcos-2.html#building-a-model-gender-working-hours-and-being-a-supervisor",
+    "href": "Marcos-2.html#building-a-model-gender-working-hours-and-being-a-supervisor",
+    "title": "Using regression to examine work-related stress",
+    "section": "Building a model: Gender, working hours and being a supervisor",
+    "text": "Building a model: Gender, working hours and being a supervisor\nNow, Marcos builds a multiple regression model to examine factors associated with work stress. He keeps ‘feeling worried’ as the the dependent (outcome) variable and has the following independent variables:\n\nyears working at the workplace (associated with less worry as people)\na dummy variable for males (which he predicts associated with less worry, as women more likely to report feeling worried)\nbeing a supervisor (which he predicted is associated with more worry)\n\n1. From the table of coefficients, which of the following are true.\n\na. From this model, women indicate feeling more worried than men given years in the workplace and being a supervisor.\nb. On average, supervisors report a score on the worry scale of -0.36 less than non-supervisors (which indicates they are more worried, as lower scores equal more worried).\nc. The model is significant\nd. Tenure is associated with less worry as Marcos predicted.\ne. A and B\nf. C and D\n\n\n\n\n\n\n\n\n\n\n\n\n\nB\nStd. Error\nBeta\nt\nSig.\n\n\nModel 1\n\n\n\n\n\n\n\nIntercept\n3.698\n.018\n\n205.330\n.000\n\n\nyears working at this  workplace\n-.012\n.005\n-.017\n-2.487\n.013\n\n\nmale\n.090\n.013\n.045\n6.671\n.000\n\n\nsupervisor\n-.363\n.014\n-.175\n-25.446\n.000"
+  },
+  {
+    "objectID": "Sara-1.html",
+    "href": "Sara-1.html",
+    "title": "Temporary employment - summarising variables",
+    "section": "",
+    "text": "Sara has decided to examine job permanency. She is interested in how job permanency affects job satisfaction. She thinks that non-permanent employees might have lower levels of job satisfaction because they feel less secure and are under more pressure to show their value. She also thinks that they are likely to work more hours because they feel less secure.\nShe knows there is some relevant data in the Workplace Employment Relations (WERS) Employee Questionnaire. She identifies the following variables."
+  },
+  {
+    "objectID": "Sara-1.html#context",
+    "href": "Sara-1.html#context",
+    "title": "Temporary employment - summarising variables",
+    "section": "",
+    "text": "Sara has decided to examine job permanency. She is interested in how job permanency affects job satisfaction. She thinks that non-permanent employees might have lower levels of job satisfaction because they feel less secure and are under more pressure to show their value. She also thinks that they are likely to work more hours because they feel less secure.\nShe knows there is some relevant data in the Workplace Employment Relations (WERS) Employee Questionnaire. She identifies the following variables."
+  },
+  {
+    "objectID": "Sara-1.html#variables",
+    "href": "Sara-1.html#variables",
+    "title": "Temporary employment - summarising variables",
+    "section": "Variables",
+    "text": "Variables\n\nPermanency\nSara would like to use the following question to identify those with permanent and non-permanent jobs.\n\n\nWhat level of measurement would the variable in the dataset have?\nShe knows she needs to examine the distribution of the above variable, which techniques would be best? [more than one option can be correct]\n\n\nMean\nStandard deviation\nFrequency table\nMedian\nHistogram\nBar chart\n\n\n\nJob satisfaction\nIn relation to job satisfaction, Sara found the following variable.\n\n\nWhat level of measurement does it have?\nWhich of the following techniques can be used to examine the distribution of responses? [more than option can be correct]\n\nMean\nStandard deviation\nFrequency table\nMedian\nHistogram\nBar chart\n\n\n\n\nHours worked\nSarah would like to consider the number of hours people work. She finds the following variable.\n\n\nWhat level of measurement is it?\nWhat type of figure is presented above?\nHow can we describe the distribution?"
+  }
+]

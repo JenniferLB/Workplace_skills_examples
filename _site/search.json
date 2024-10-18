@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dissertation help! Analysis examples",
+    "section": "",
+    "text": "Examples of simple data analysis with questions to consider.\nExercise 1: Temporary employment explores initial analysis of variables.\nExercise 2: Dimensions of work-related stress reviews a correlation matrix.\nExercises 3: Using regression to examine work-related stress"
+  },
+  {
+    "objectID": "Example-2.html",
+    "href": "Example-2.html",
+    "title": "Dimensions of work-related stress",
+    "section": "",
+    "text": "Marcos is examining work-related stress. From an initial search of a datasets, he finds several relevant variables, each of which captures agreement with one of the following statements:\n\nMy job requires that I work very hard\nI never seem to have enough time to get my work done\nI feel my job is secure in this workplace\nI worry a lot about my work outside working hours\n\nLower score = more agreement with the statement. \nHe wants to examine how strongly related these variables are to each other. He looks at the correlations between them using a correlation matrix.\n\nIdentify which values are the correlation coefficients and determine:\n\nthe strongest association?\nthe weakest association?\n\nThis table reports the Spearman’s rank correlation coefficients, why might this be the best choice in the situation?"
+  },
+  {
+    "objectID": "Example-2.html#context",
+    "href": "Example-2.html#context",
+    "title": "Dimensions of work-related stress",
+    "section": "",
+    "text": "Marcos is examining work-related stress. From an initial search of a datasets, he finds several relevant variables, each of which captures agreement with one of the following statements:\n\nMy job requires that I work very hard\nI never seem to have enough time to get my work done\nI feel my job is secure in this workplace\nI worry a lot about my work outside working hours\n\nLower score = more agreement with the statement. \nHe wants to examine how strongly related these variables are to each other. He looks at the correlations between them using a correlation matrix.\n\nIdentify which values are the correlation coefficients and determine:\n\nthe strongest association?\nthe weakest association?\n\nThis table reports the Spearman’s rank correlation coefficients, why might this be the best choice in the situation?"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Example-1.html",
+    "href": "Example-1.html",
+    "title": "Temporary employment",
+    "section": "",
+    "text": "Sara wants to examine if job permanency affects job satisfaction. She thinks that non-permanent (temporary) employees might have lower levels of job satisfaction because they feel less secure.  She knows there is some relevant data in the Workplace Employment Relations (WERS) Employee Questionnaire. But she’s confused about the variables and what techniques to use."
+  },
+  {
+    "objectID": "Example-1.html#context",
+    "href": "Example-1.html#context",
+    "title": "Temporary employment",
+    "section": "",
+    "text": "Sara wants to examine if job permanency affects job satisfaction. She thinks that non-permanent (temporary) employees might have lower levels of job satisfaction because they feel less secure.  She knows there is some relevant data in the Workplace Employment Relations (WERS) Employee Questionnaire. But she’s confused about the variables and what techniques to use."
+  },
+  {
+    "objectID": "Example-1.html#variables",
+    "href": "Example-1.html#variables",
+    "title": "Temporary employment",
+    "section": "Variables",
+    "text": "Variables\n\nPermanency\nSara would like to use the following question to identify those with permanent and non-permanent jobs.\n\n\nWhat level of measurement would the variable in the dataset have?\nShe knows she needs to examine the distribution of the above variable, which techniques would be best? [more than one option can be correct]\n\n\nMean\nStandard deviation\nFrequency table\nMedian\nHistogram\nBar chart\n\n\n\nJob satisfaction\nIn relation to job satisfaction, Sara found the following variable.\n\nWhat level of measurement does it have?\nWhich of the following techniques can be used to examine the distriubtion of responses? [more than option can be correct]\n\nMean\nStandard deviation\nFrequency table\nMedian\nHistogram\nBar chart\n\n\n\nHours worked\nSarah would like to consider the number of hours people work. She finds the following variable.\n\n\nWhat level of measurement is it?\nWhat type of figure is presented above?\nHow can we describe the distribution?"
+  },
+  {
+    "objectID": "Example-1.html#crosstabulation-gender-differences-in-permanent-employment",
+    "href": "Example-1.html#crosstabulation-gender-differences-in-permanent-employment",
+    "title": "Temporary employment",
+    "section": "Crosstabulation: gender differences in permanent employment",
+    "text": "Crosstabulation: gender differences in permanent employment\nSara is eager to look at the data. She creates the following table to examine if there are gender differences in permanent employment.\n\n\nBased on this table, which of the following can she conclude?\na) 4.9% of those in ‘temporary employment with no agreed end date’ are women\nb) 91.5% of females are in permanent employment\nc) A and B\nd) None"
+  },
+  {
+    "objectID": "Example-1.html#examining-hours-worked-by-job-permanency",
+    "href": "Example-1.html#examining-hours-worked-by-job-permanency",
+    "title": "Temporary employment",
+    "section": "Examining hours worked by job permanency?",
+    "text": "Examining hours worked by job permanency?\nIs job permanency related to usual hours worked (i.e. are those in non-permanent jobs likely to work more hours or less hours)? For this question, Sara gets the following output.\n\n\nWhich of the following are correct? [more than one can be correct]\na) Those with a permanent job work more hours on average.\nb) Those in non-permanent jobs work more on average.\nc) Working hours vary more among those in non-permanent jobs.\nd) Working hours vary more among those in permanent jobs.\n\n\nQuestions to think about\n\nHow can she examine the relationship between permanency and satisfaction?\nWhy do those in permanent positions work more hours? How should this be considered in the data analysis?\nDo you think these differences are statistically significant?"
+  },
+  {
+    "objectID": "Example-3.html",
+    "href": "Example-3.html",
+    "title": "Using regression to examine work-related stress",
+    "section": "",
+    "text": "Marcos is examining work related stress. He wants to use regression analysis to examine factors associated with higher levels of work-related stress. He theorises that more hours working increases the chance of work-related stress."
+  },
+  {
+    "objectID": "Example-3.html#context",
+    "href": "Example-3.html#context",
+    "title": "Using regression to examine work-related stress",
+    "section": "",
+    "text": "Marcos is examining work related stress. He wants to use regression analysis to examine factors associated with higher levels of work-related stress. He theorises that more hours working increases the chance of work-related stress."
+  },
+  {
+    "objectID": "Example-3.html#a-simple-linear-regression-model",
+    "href": "Example-3.html#a-simple-linear-regression-model",
+    "title": "Using regression to examine work-related stress",
+    "section": "A simple linear regression model",
+    "text": "A simple linear regression model\nHe starts with a simple model examining frequency of feeling worried about work relates to the number of hours worked.\n\nWhich is the dependent and independent variable?\n\nUsing the model output below answer the following question:\n\nModel 1 suggests that working hours accounts for\n\n\na) 15 % of the variance in feeling worried\nb) 22% of the variance in feeling worried\nc) 2.2% of the variance in feel worried\n\n\nThe F ratio implies the model is significant. Is this true or False?\nModel predicts that a 1 unit increase in working hours results in a -0.012 decrease in score for worry over job (Note: lower scores indicate more worry.) Is the coefficient statistically significant?\nOverall, what do the results suggest?\n\n\nOn average an increase in working hours is associated with lower score on the feeling worried variable (therefore feel more worried) but the effect is not statistically significant.\nWorking hours explains 22% of the variation in job stress\nThere is a statistically significant effect of working hours on job stress but working hours does not account for much of the variation in job stress.\n\n6. Summarise the results in one sentence."
+  },
+  {
+    "objectID": "Example-3.html#building-a-model-gender-working-hours-and-being-a-supervisor",
+    "href": "Example-3.html#building-a-model-gender-working-hours-and-being-a-supervisor",
+    "title": "Using regression to examine work-related stress",
+    "section": "Building a model: Gender, working hours and being a supervisor",
+    "text": "Building a model: Gender, working hours and being a supervisor\nNow, Marcos builds a multiple regression model to examine factors associated with work stress.\n‘Feeling worried’ is his dependent (outcome) variable. He has following independent variables:\n\n·       years working at the workplace (associated with less worry as people)\n·       a dummy variable for males (which he predicts associated with less worry, as women more likely to report feeling worried)\n·       Being a supervisor (which he predicted is associated with more worry)\n\n1. From the table of coefficients, which of the following are true.\na.       From this model, women indicate feeling more worried than men given years in the workplace and being a supervisor.\nb.       On average, supervisors report a score on the worry scale of -0.36 less than non-supervisors (which indicates they are more worried, as lower scores equal more worried).\nc.       The model is significant\nd.       Tenure is associated with less worry as Marcos predicted.\ne.       A and B\nf.        C and D\n\n\n\n\n\n\n\n\n\n\n\n\nB\nStd. Error\nBeta\nt\nSig.\n\n\n\n\n\n\n\n\n\n\nModel 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntercept\n3.698\n.018\n\n205.330\n.000\n\n\n\n\n\n\n\n\n\n\nyears working at this  workplace\n-.012\n.005\n-.017\n-2.487\n.013\n\n\n\n\n\n\n\n\n\n\nmale\n.090\n.013\n.045\n6.671\n.000\n\n\n\n\n\n\n\n\n\n\nsupervisor\n-.363\n.014\n-.175\n-25.446\n.000\n\n\n\n\n\n\n\n\n\n\nModel 2\n\n\n\n\n\n\n\n(Constant)\n3.667\n.022\n\n164.146\n.000\n\n\n\n\n\n\n\n\n\n\nyears working at this  workplace\n-.010\n.005\n-.013\n-1.976\n.048\n\n\n\n\n\n\n\n\n\n\nmale\n.107\n.013\n.054\n8.019\n.000\n\n\n\n\n\n\n\n\n\n\nsupervisor\n-.391\n.014\n-.189\n-27.576\n.000\n\n\nNo sense of achievement (baseline neutral)\n-.437\n.025\n-.135\n-17.259\n.000\n\n\nSense of achievement (baseline neutral)\n.100\n.017\n.047\n5.892\n.000\n\n\nModel 3\n\n\n\n\n\n\n\n(Constant)\n2.676\n.028\n\n95.636\n.000\n\n\nyears working at this  workplace\n.019\n.005\n.026\n4.070\n.000\n\n\nmale\n.073\n.013\n.037\n5.798\n.000\n\n\n\n\n\n\n\n\n\n\nsupervisor\n-.242\n.014\n-.117\n-17.827\n.000\n\n\nNo sense of achievement (baseline neutral)\n-.355\n.024\n-.110\n-14.892\n.000\n\n\nSense of achievement (baseline neutral)\n.084\n.016\n.039\n5.267\n.000\n\n\nnever seem to have enough time to get work done (low score=more agreement)\n.315\n.006\n.347\n53.494\n.000"
+  }
+]

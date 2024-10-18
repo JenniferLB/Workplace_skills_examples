@@ -1,0 +1,68 @@
+---
+title: "Using regression to examine work-related stress"
+---
+
+## Context
+
+Marcos is examining work related stress. He wants to use regression analysis to examine factors associated with higher levels of work-related stress. He theorises that more hours working increases the chance of work-related stress.
+
+## A simple linear regression model
+
+He starts with a simple model examining how **frequency of feeling worried about work** relates to the **number of hours worked**.
+
+1.  Which is the dependent and independent variable?
+2.  According to the information, does Model 1 suggests that working hours accounts for
+    -   a\) 15 % of the variance in feeling worried
+    -   b\) 22% of the variance in feeling worried
+    -   c\) 2.2% of the variance in feeling worried
+
+<!-- -->
+
+3.  The F ratio implies the model is significant. Is this true or false?
+
+4.  The model predicts that a 1 unit increase in working hours results in a -0.012 decrease in scores for worry over job (Note: lower scores indicate more worry.) Is the coefficient statistically significant?
+
+5.  Overall, which of the following statements do the results support?
+
+    -   a\) On average an increase in working hours is associated with lower scores on the feeling worried variable (therefore feel more worried) but the association is not statistically significant.
+
+    -   b\) Working hours explains 22% of the variation in job stress.
+
+    -   c\) There is a statistically significant effect of working hours on job stress but working hours does not account for much of the variation in job stress.
+
+6\. Summarise the results in one sentence.
+
+![](images/clipboard-1912033446.png)
+
+## Building a model: Gender, working hours and being a supervisor
+
+Now, Marcos builds a multiple regression model to examine factors associated with work stress. He keeps ‘feeling worried’ as the the dependent (outcome) variable and has the following independent variables:
+
+-   years working at the workplace (associated with less worry as people)
+
+-   a dummy variable for males (which he predicts associated with less worry, as women more likely to report feeling worried)
+
+-   being a supervisor (which he predicted is associated with more worry)
+
+1\. From the table of coefficients, which of the following are true.
+
+-   a\. From this model, women indicate feeling more worried than men given years in the workplace and being a supervisor.
+
+-   b\. On average, supervisors report a score on the worry scale of -0.36 less than non-supervisors (which indicates they are more worried, as lower scores equal more worried).
+
+-   c\. The model is significant
+
+-   d\. Tenure is associated with less worry as Marcos predicted.
+
+-   e\. A and B
+
+-   f\. C and D
+
+|                                  |       |            |       |         |      |
+|----------------------------------|-------|------------|-------|---------|------|
+|                                  | B     | Std. Error | Beta  | t       | Sig. |
+| **Model 1**                      |       |            |       |         |      |
+| Intercept                        | 3.698 | .018       |       | 205.330 | .000 |
+| years working at this  workplace | -.012 | .005       | -.017 | -2.487  | .013 |
+| male                             | .090  | .013       | .045  | 6.671   | .000 |
+| supervisor                       | -.363 | .014       | -.175 | -25.446 | .000 |

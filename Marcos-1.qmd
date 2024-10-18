@@ -1,0 +1,35 @@
+---
+title: "Dimensions of work-related stress - correlations"
+---
+
+## Context
+
+Marcos is examining work-related stress. He does an initial search of a relevant dataset and he finds several variables relating to different aspects of work related stress. To understand the data better he wants to examine the relationships between these variables.
+
+## Measure of work stress
+
+The variables each record responses to questions asking for agreement with one of the following statements:
+
+-   My job requires that I work very hard.
+
+-   I never seem to have enough time to get my work done.
+
+-   I feel my job is secure in this workplace.
+
+-   I worry a lot about my work outside working hours.
+
+Lower score = more agreement with the statement. 
+
+## Correlations
+
+He wants to examine the strenght of association between these variables. He looks at the correlations between them using a correlation matrix.
+
+1.  Identify which values are the correlation coefficients and determine:
+
+    -   the strongest association?
+
+    -   the weakest association?
+
+2.  This table reports the Spearman’s rank correlation coefficients, why might this be the best choice in the situation?
+
+![](images/clipboard-3237647601.png)
