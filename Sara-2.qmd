@@ -9,6 +9,8 @@ Sara wants to examine if job permanency affects job satisfaction. She thinks tha
 ## What techniques?
 
 ::: panel-tabset
+## Questions
+
 Sara works on her research questions and starts to think about the techniques can she use. For each of the research questions below, select an appropriate method of exploring the relationship.
 
 1.  Is there any gender difference in permanent employment?
