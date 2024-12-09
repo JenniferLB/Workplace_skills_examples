@@ -16,6 +16,9 @@ Sara would like to use the following question to identify those with permanent a
 
 ![](images/clipboard-1547536417.png)
 
+::: panel-tabset
+## Questions
+
 1.  What level of measurement would the variable in the dataset have?
 
 2.  She knows she needs to examine the distribution of the above variable, which techniques would be best? \[more than one option can be correct\]
@@ -32,11 +35,20 @@ Sara would like to use the following question to identify those with permanent a
 
 -   Bar chart
 
+## Answers
+
+1.  Nominal
+2.  Frequency tables and bar charts are useful for showing the distribution of nominal variables.
+:::
+
 ### Job satisfaction
 
 In relation to job satisfaction, Sara found the following variable.
 
 ![](images/clipboard-1187906516.png)
+
+::: panel-tabset
+## Questions
 
 1.  What level of measurement does it have?
 
@@ -54,14 +66,32 @@ In relation to job satisfaction, Sara found the following variable.
 
     -   Bar chart
 
+## Answers
+
+1.  Ordinal; cases are distributed across categories and the categories have an order (i.e. they are more or less satisfied).
+2.  You can use a frequency table and bar chart to show the distribution across categories. Median and mean can be calculated but may be difficult to interpret. There is a debate about whether we should ever calculate the mean of ordinal variables.
+:::
+
 ### Hours worked
 
 Sarah would like to consider the number of hours people work. She finds the following variable.
 
 ![](images/clipboard-3868221106.png)
 
+::: panel-tabset
+## Questions
+
 1.  What level of measurement is it?
 
 2.  What type of figure is presented above?
 
 3.  How can we describe the distribution?
+
+## Answers
+
+1.  Scale/continuous
+
+2.  Histogram
+
+3.  The variable distribution is approaching normal but with a negative/left skew as people are concentrated at higher values.
+:::

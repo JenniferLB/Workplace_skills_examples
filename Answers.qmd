@@ -1,0 +1,87 @@
+---
+title: "Trade unions and maternity benefits - crosstabulation and chi-square test"
+---
+
+## Context
+
+Ahmed is interested in examining the impact of trade unions. Specifically, he wants to investigate the following question:
+
+-   Do workplaces with trade unions offer better maternity benefits?
+
+He has the following ideas:
+
+-   Yes, they will do because trade unions negotiate for better employee benefits. A causal relationship.
+
+-   Yes, there will be an association because workplaces open to trade union membership treat employees better generally. An association due to some general approach taken by employers.
+
+Either 1 or 2 suggest we should find some association.  
+
+## Hypotheses
+
+1.  Translate his theory into hypothesis to test:
+
+-   H0=?
+
+-   H1=?
+
+## Frequencies
+
+Below us a summary of the two variables.
+
+**Are any of the employees here members of a trade union or independent staff association?**
+
+|       |           |         |
+|-------|-----------|---------|
+|       | Frequency | Percent |
+| Yes   | 1326      | 57.8    |
+| No    | 969       | 42.2    |
+| Total | 2295      | 100.0   |
+
+**Would any female employees going on maternity leave from this workplace receive their normal, full rate of pay?**
+
+|                |           |         |               |
+|----------------|-----------|---------|---------------|
+|                | Frequency | Percent | Valid Percent |
+| Yes            | 1360      | 59.3    | 62.6          |
+| No             | 813       | 35.4    | 37.4          |
+| Total          | 2173      | 94.7    | 100.0         |
+| Refusal        | 6         | .3      |               |
+| Don't know     | 68        | 3.0     |               |
+| Not applicable | 48        | 2.1     |               |
+| Total          | 122       | 5.3     |               |
+
+## Crosstabulation
+
+Ahemed examines a crosstabulation with:
+
+-   Employees members of a trade union (yes/no) in the columns
+
+-   Maternity pay=full pay (yes/no) in the rows
+
+### Column percentages
+
+Ahmed creates the table using column percentages.
+
+![](images/clipboard-1856954046.png)
+
+1.  What percentage of workplaces with trade union members does maternity pay equal full pay?
+
+2.  What percentage of workplaces with no trade union members does maternity pay equal to full pay?
+
+3.  What percentage of all work places does maternity pay equal to full pay?
+
+### Row percentages
+
+Ahmed creates the table with row percentages.
+
+![](images/clipboard-1024299767.png)
+
+1.  What percentage of workplaces have trade unions and are trade unions more or less common in workplaces where maternity pay equals full pay?
+
+2.  Why do the row and column percentages differ here?
+
+## Chi-square test
+
+Ahmed examines a chi-square test. What does he conclude?
+
+![](images/clipboard-493710294.png)

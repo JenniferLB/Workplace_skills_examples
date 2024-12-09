@@ -172,7 +172,7 @@
     "href": "Ahmed-1.html#frequencies",
     "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
     "section": "Frequencies",
-    "text": "Frequencies\nBelow us a summary of the two variables.\nAre any of the employees here members of a trade union or independent staff association?\n\n\n\n\n\n\n\n\n\nFrequency\nPercent\n\n\nYes\n1326\n57.8\n\n\nNo\n969\n42.2\n\n\nTotal\n2295\n100.0\n\n\n\nWould any female employees going on maternity leave from this workplace receive their normal, full rate of pay?\n\n\n\n\n\n\n\n\n\n\nFrequency\nPercent\nValid Percent\n\n\nYes\n1360\n59.3\n62.6\n\n\nNo\n813\n35.4\n37.4\n\n\nTotal\n2173\n94.7\n100.0\n\n\nRefusal\n6\n.3\n\n\n\nDon’t know\n68\n3.0\n\n\n\nNot applicable\n48\n2.1\n\n\n\nTotal\n122\n5.3"
+    "text": "Frequencies\nBelow us a summary of the two variables.\nAre any of the employees here members of a trade union or independent staff association?\n\n\n\n\nFrequency\nPercent\n\n\nYes\n1326\n57.8\n\n\nNo\n969\n42.2\n\n\nTotal\n2295\n100.0\n\n\n\nWould any female employees going on maternity leave from this workplace receive their normal, full rate of pay?\n\n\n\n\nFrequency\nPercent\nValid Percent\n\n\nYes\n1360\n59.3\n62.6\n\n\nNo\n813\n35.4\n37.4\n\n\nTotal\n2173\n94.7\n100.0\n\n\nRefusal\n6\n.3\n\n\n\nDon’t know\n68\n3.0\n\n\n\nNot applicable\n48\n2.1\n\n\n\nTotal\n122\n5.3"
   },
   {
     "objectID": "Ahmed-1.html#crosstabulation",
@@ -214,7 +214,7 @@
     "href": "index.html",
     "title": "Dissertation help!",
     "section": "",
-    "text": "Use your knowledge to help these fellow dissertation students with their data analysis!\nThese are a collection of (fictitious) examples of simple quantitative data analysis. Each example includes questions to answer. They are designed to support learning on BMAN60261 Workplace Research and Analysis.Answers to the questions will be posted later to aid revision.\n\nSara 1: Temporary employment - summarising variables\nSara 2: Temporary employment - bivariate relationships\nAhmed 1: Trade unions and maternity benefits - crosstabulation and chi-square test\nMarcos 1: Dimensions of work-related stress reviews - a correlation matrix\nMarcos 2: Using regression to examine work-related stress\nMarcos 3: Adding more variables in a hierarchical approach"
+    "text": "Use your knowledge to help these fellow dissertation students with their data analysis!\nThese are a collection of (fictitious) examples of simple quantitative data analysis. Each example includes questions to answer. They are designed to support learning on BMAN60261 Workplace Research and Analysis.\nAnswers to the questions will be made available.\n\nSara 1: Temporary employment - summarising variables\nSara 2: Temporary employment - bivariate relationships\nAhmed 1: Trade unions and maternity benefits - crosstabulation and chi-square test\nMarcos 1: Dimensions of work-related stress reviews - a correlation matrix\nMarcos 2: Using regression to examine work-related stress\nMarcos 3: Adding more variables in a hierarchical approach"
   },
   {
     "objectID": "Marcos-2.html",
@@ -264,5 +264,47 @@
     "title": "Temporary employment - summarising variables",
     "section": "Variables",
     "text": "Variables\n\nPermanency\nSara would like to use the following question to identify those with permanent and non-permanent jobs.\n\n\nWhat level of measurement would the variable in the dataset have?\nShe knows she needs to examine the distribution of the above variable, which techniques would be best? [more than one option can be correct]\n\n\nMean\nStandard deviation\nFrequency table\nMedian\nHistogram\nBar chart\n\n\n\nJob satisfaction\nIn relation to job satisfaction, Sara found the following variable.\n\n\nWhat level of measurement does it have?\nWhich of the following techniques can be used to examine the distribution of responses? [more than option can be correct]\n\nMean\nStandard deviation\nFrequency table\nMedian\nHistogram\nBar chart\n\n\n\n\nHours worked\nSarah would like to consider the number of hours people work. She finds the following variable.\n\n\nWhat level of measurement is it?\nWhat type of figure is presented above?\nHow can we describe the distribution?"
+  },
+  {
+    "objectID": "Answers.html",
+    "href": "Answers.html",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "",
+    "text": "Ahmed is interested in examining the impact of trade unions. Specifically, he wants to investigate the following question:\n\nDo workplaces with trade unions offer better maternity benefits?\n\nHe has the following ideas:\n\nYes, they will do because trade unions negotiate for better employee benefits. A causal relationship.\nYes, there will be an association because workplaces open to trade union membership treat employees better generally. An association due to some general approach taken by employers.\n\nEither 1 or 2 suggest we should find some association."
+  },
+  {
+    "objectID": "Answers.html#context",
+    "href": "Answers.html#context",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "",
+    "text": "Ahmed is interested in examining the impact of trade unions. Specifically, he wants to investigate the following question:\n\nDo workplaces with trade unions offer better maternity benefits?\n\nHe has the following ideas:\n\nYes, they will do because trade unions negotiate for better employee benefits. A causal relationship.\nYes, there will be an association because workplaces open to trade union membership treat employees better generally. An association due to some general approach taken by employers.\n\nEither 1 or 2 suggest we should find some association."
+  },
+  {
+    "objectID": "Answers.html#hypotheses",
+    "href": "Answers.html#hypotheses",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "Hypotheses",
+    "text": "Hypotheses\n\nTranslate his theory into hypothesis to test:\n\n\nH0=?\nH1=?"
+  },
+  {
+    "objectID": "Answers.html#frequencies",
+    "href": "Answers.html#frequencies",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "Frequencies",
+    "text": "Frequencies\nBelow us a summary of the two variables.\nAre any of the employees here members of a trade union or independent staff association?\n\n\n\n\nFrequency\nPercent\n\n\nYes\n1326\n57.8\n\n\nNo\n969\n42.2\n\n\nTotal\n2295\n100.0\n\n\n\nWould any female employees going on maternity leave from this workplace receive their normal, full rate of pay?\n\n\n\n\nFrequency\nPercent\nValid Percent\n\n\nYes\n1360\n59.3\n62.6\n\n\nNo\n813\n35.4\n37.4\n\n\nTotal\n2173\n94.7\n100.0\n\n\nRefusal\n6\n.3\n\n\n\nDon’t know\n68\n3.0\n\n\n\nNot applicable\n48\n2.1\n\n\n\nTotal\n122\n5.3"
+  },
+  {
+    "objectID": "Answers.html#crosstabulation",
+    "href": "Answers.html#crosstabulation",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "Crosstabulation",
+    "text": "Crosstabulation\nAhemed examines a crosstabulation with:\n\nEmployees members of a trade union (yes/no) in the columns\nMaternity pay=full pay (yes/no) in the rows\n\n\nColumn percentages\nAhmed creates the table using column percentages.\n\n\nWhat percentage of workplaces with trade union members does maternity pay equal full pay?\nWhat percentage of workplaces with no trade union members does maternity pay equal to full pay?\nWhat percentage of all work places does maternity pay equal to full pay?\n\n\n\nRow percentages\nAhmed creates the table with row percentages.\n\n\nWhat percentage of workplaces have trade unions and are trade unions more or less common in workplaces where maternity pay equals full pay?\nWhy do the row and column percentages differ here?"
+  },
+  {
+    "objectID": "Answers.html#chi-square-test",
+    "href": "Answers.html#chi-square-test",
+    "title": "Trade unions and maternity benefits - crosstabulation and chi-square test",
+    "section": "Chi-square test",
+    "text": "Chi-square test\nAhmed examines a chi-square test. What does he conclude?"
   }
 ]

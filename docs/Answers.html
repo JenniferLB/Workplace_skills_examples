@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Dissertation help!</title>
+<title>Trade unions and maternity benefits - crosstabulation and chi-square test – Dissertation help!</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -127,15 +127,29 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#context" id="toc-context" class="nav-link active" data-scroll-target="#context">Context</a></li>
+  <li><a href="#hypotheses" id="toc-hypotheses" class="nav-link" data-scroll-target="#hypotheses">Hypotheses</a></li>
+  <li><a href="#frequencies" id="toc-frequencies" class="nav-link" data-scroll-target="#frequencies">Frequencies</a></li>
+  <li><a href="#crosstabulation" id="toc-crosstabulation" class="nav-link" data-scroll-target="#crosstabulation">Crosstabulation</a>
+  <ul class="collapse">
+  <li><a href="#column-percentages" id="toc-column-percentages" class="nav-link" data-scroll-target="#column-percentages">Column percentages</a></li>
+  <li><a href="#row-percentages" id="toc-row-percentages" class="nav-link" data-scroll-target="#row-percentages">Row percentages</a></li>
+  </ul></li>
+  <li><a href="#chi-square-test" id="toc-chi-square-test" class="nav-link" data-scroll-target="#chi-square-test">Chi-square test</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Dissertation help!</h1>
+<h1 class="title">Trade unions and maternity benefits - crosstabulation and chi-square test</h1>
 </div>
 
 
@@ -152,19 +166,145 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Use your knowledge to help these fellow dissertation students with their data analysis!</p>
-<p>These are a collection of (fictitious) examples of simple quantitative data analysis. Each example includes questions to answer. They are designed to support learning on BMAN60261 Workplace Research and Analysis.</p>
-<p>Answers to the questions will be made available.</p>
+<section id="context" class="level2">
+<h2 class="anchored" data-anchor-id="context">Context</h2>
+<p>Ahmed is interested in examining the impact of trade unions. Specifically, he wants to investigate the following question:</p>
 <ul>
-<li><p><a href="./Sara-1.html">Sara 1: Temporary employment - summarising variables</a></p></li>
-<li><p><a href="./Sara-2.html">Sara 2: Temporary employment - bivariate relationships</a></p></li>
-<li><p><a href="./Ahmed-1.html">Ahmed 1: Trade unions and maternity benefits - crosstabulation and chi-square test</a></p></li>
-<li><p><a href="./Marcos-1.html">Marcos 1: Dimensions of work-related stress reviews - a correlation matrix</a></p></li>
-<li><p><a href="./Marcos-2.html">Marcos 2: Using regression to examine work-related stress</a></p></li>
-<li><p><a href="./Marcos-3.html">Marcos 3: Adding more variables in a hierarchical approach</a></p></li>
+<li>Do workplaces with trade unions offer better maternity benefits?</li>
 </ul>
+<p>He has the following ideas:</p>
+<ul>
+<li><p>Yes, they will do because trade unions negotiate for better employee benefits. A causal relationship.</p></li>
+<li><p>Yes, there will be an association because workplaces open to trade union membership treat employees better generally. An association due to some general approach taken by employers.</p></li>
+</ul>
+<p>Either 1 or 2 suggest we should find some association. &nbsp;</p>
+</section>
+<section id="hypotheses" class="level2">
+<h2 class="anchored" data-anchor-id="hypotheses">Hypotheses</h2>
+<ol type="1">
+<li>Translate his theory into hypothesis to test:</li>
+</ol>
+<ul>
+<li><p>H0=?</p></li>
+<li><p>H1=?</p></li>
+</ul>
+</section>
+<section id="frequencies" class="level2">
+<h2 class="anchored" data-anchor-id="frequencies">Frequencies</h2>
+<p>Below us a summary of the two variables.</p>
+<p><strong>Are any of the employees here members of a trade union or independent staff association?</strong></p>
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td></td>
+<td>Frequency</td>
+<td>Percent</td>
+</tr>
+<tr class="even">
+<td>Yes</td>
+<td>1326</td>
+<td>57.8</td>
+</tr>
+<tr class="odd">
+<td>No</td>
+<td>969</td>
+<td>42.2</td>
+</tr>
+<tr class="even">
+<td>Total</td>
+<td>2295</td>
+<td>100.0</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Would any female employees going on maternity leave from this workplace receive their normal, full rate of pay?</strong></p>
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td></td>
+<td>Frequency</td>
+<td>Percent</td>
+<td>Valid Percent</td>
+</tr>
+<tr class="even">
+<td>Yes</td>
+<td>1360</td>
+<td>59.3</td>
+<td>62.6</td>
+</tr>
+<tr class="odd">
+<td>No</td>
+<td>813</td>
+<td>35.4</td>
+<td>37.4</td>
+</tr>
+<tr class="even">
+<td>Total</td>
+<td>2173</td>
+<td>94.7</td>
+<td>100.0</td>
+</tr>
+<tr class="odd">
+<td>Refusal</td>
+<td>6</td>
+<td>.3</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Don’t know</td>
+<td>68</td>
+<td>3.0</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Not applicable</td>
+<td>48</td>
+<td>2.1</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Total</td>
+<td>122</td>
+<td>5.3</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="crosstabulation" class="level2">
+<h2 class="anchored" data-anchor-id="crosstabulation">Crosstabulation</h2>
+<p>Ahemed examines a crosstabulation with:</p>
+<ul>
+<li><p>Employees members of a trade union (yes/no) in the columns</p></li>
+<li><p>Maternity pay=full pay (yes/no) in the rows</p></li>
+</ul>
+<section id="column-percentages" class="level3">
+<h3 class="anchored" data-anchor-id="column-percentages">Column percentages</h3>
+<p>Ahmed creates the table using column percentages.</p>
+<p><img src="images/clipboard-1856954046.png" class="img-fluid"></p>
+<ol type="1">
+<li><p>What percentage of workplaces with trade union members does maternity pay equal full pay?</p></li>
+<li><p>What percentage of workplaces with no trade union members does maternity pay equal to full pay?</p></li>
+<li><p>What percentage of all work places does maternity pay equal to full pay?</p></li>
+</ol>
+</section>
+<section id="row-percentages" class="level3">
+<h3 class="anchored" data-anchor-id="row-percentages">Row percentages</h3>
+<p>Ahmed creates the table with row percentages.</p>
+<p><img src="images/clipboard-1024299767.png" class="img-fluid"></p>
+<ol type="1">
+<li><p>What percentage of workplaces have trade unions and are trade unions more or less common in workplaces where maternity pay equals full pay?</p></li>
+<li><p>Why do the row and column percentages differ here?</p></li>
+</ol>
+</section>
+</section>
+<section id="chi-square-test" class="level2">
+<h2 class="anchored" data-anchor-id="chi-square-test">Chi-square test</h2>
+<p>Ahmed examines a chi-square test. What does he conclude?</p>
+<p><img src="images/clipboard-493710294.png" class="img-fluid"></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
