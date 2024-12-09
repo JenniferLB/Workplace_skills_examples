@@ -22,7 +22,10 @@ Lower score = more agreement with the statement. 
 
 ## Correlations
 
-He wants to examine the strenght of association between these variables. He looks at the correlations between them using a correlation matrix.
+He wants to examine the strength of association between these variables. He looks at the correlations between them using a correlation matrix.
+
+::: panel-tabset
+## Questions
 
 1.  Identify which values are the correlation coefficients and determine:
 
@@ -31,5 +34,16 @@ He wants to examine the strenght of association between these variables. He look
     -   the weakest association?
 
 2.  This table reports the Spearman’s rank correlation coefficients, why might this be the best choice in the situation?
+
+## Answers
+
+1.  The correlation
+
+    -   indicating the strongest association is 0.452, which is between 'I never seem to have enough time to get my work done’ and ‘I worry a lot about my work outside working hours’
+
+    -   indicating the weakest association is -0.02, which is between ‘I never seem to have enough time to get my work done’ and ‘I feel secure in the workplace’.
+
+2.  Because the variables are ordinal variables rather than truly continuous. It could also be because they are not distributed normally, but we cannot tell that from the information here.
+:::
 
 ![](images/clipboard-3237647601.png)

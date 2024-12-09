@@ -18,11 +18,23 @@ Either 1 or 2 suggest we should find some association.  
 
 ## Hypotheses
 
+::: panel-tabset
+## Questions
+
 1.  Translate his theory into hypothesis to test:
 
 -   H0=?
 
 -   H1=?
+
+## Answers
+
+1.  Translate his theory into hypothesis to test:
+
+-   H0= no association (independent of each other)
+
+    H1=an association between presence of trade unions and maternity pay (dependent on each other)
+:::
 
 ## Frequencies
 
@@ -64,11 +76,23 @@ Ahmed creates the table using column percentages.
 
 ![](images/clipboard-1856954046.png)
 
+::: panel-tabset
+## Questions
+
 1.  What percentage of workplaces with trade union members does maternity pay equal full pay?
 
 2.  What percentage of workplaces with no trade union members does maternity pay equal to full pay?
 
 3.  What percentage of all work places does maternity pay equal to full pay?
+
+## Answers
+
+1.  In 72 percent of workplaces with trade union members, maternity pay equals full pay.
+
+2.  Only, 50 percent of workplaces with no trade union members have maternity equal to full pay.  
+
+3.  Overall, in 63 percent of workplaces, maternity pay equals full pay.
+:::
 
 ### Row percentages
 
@@ -76,12 +100,38 @@ Ahmed creates the table with row percentages.
 
 ![](images/clipboard-1024299767.png)
 
-1.  What percentage of workplaces have trade unions and are trade unions more or less common in workplaces where maternity pay equals full pay?
+::: panel-tabset
+## Questions
+
+1.  What percentage of workplaces have trade unions? Are trade unions more or less common in workplaces where maternity pay equals full pay?
 
 2.  Why do the row and column percentages differ here?
 
+## Answers
+
+1.  59 percent of workplaces have trade union members. According to this data, workplaces where maternity pay equals full pay are more likely to have trade unions (67%) than workplaces overall. Where maternity pay does not equal full pay, 55 percent do not have trade union members.
+
+2.  Why do the row and column percentages differ here?
+
+    -   The row percent and column percent break up the sample in different ways.
+
+    -   In the first table, when we calculate that “In 72 percent of workplaces with trade union members, maternity pay equals full pay” we are only considering workplaces with trade union members.
+
+    -   In the second table, we calculate the 67 percent, by only looking at workplaces where maternity pay equals full pay.
+
+    -   The cases we consider when calculating the row and column percentages vary.
+:::
+
 ## Chi-square test
 
+::: panel-tabset
+## Questions
+
 Ahmed examines a chi-square test. What does he conclude?
+
+## Answers
+
+P\<0.05 – we reject the null hypothesis. There is evidence that these variables are not independent of each other.
+:::
 
 ![](images/clipboard-493710294.png)

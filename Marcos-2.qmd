@@ -10,6 +10,9 @@ Marcos is examining work related stress. He wants to use regression analysis to 
 
 He starts with a simple model examining how **frequency of feeling worried about work** relates to the **number of hours worked**.
 
+::: panel-tabset
+## Questions
+
 1.  Which is the dependent and independent variable?
 2.  According to the information, does Model 1 suggests that working hours accounts for
     -   a\) 15 % of the variance in feeling worried
@@ -20,9 +23,23 @@ He starts with a simple model examining how **frequency of feeling worried about
 
 3.  The F ratio implies the model is significant. Is this true or false?
 
-4.  The model predicts that a 1 unit increase in working hours results in a -0.012 decrease in scores for worry over job (Note: lower scores indicate more worry.) Is the coefficient statistically significant?
+## Answers
 
-5.  Overall, which of the following statements do the results support?
+1.  The dependent variable is: Feeling worried and the independent variable is: Hours worked.
+
+2.  2.2. % of the variance in feeling worried.
+
+3.  True
+:::
+
+![](images/clipboard-1912033446.png)
+
+::: panel-tabset
+## Questions
+
+1.  The model predicts that a 1 unit increase in working hours results in a -0.012 decrease in scores for worry over job (Note: lower scores indicate more worry.) Is the coefficient statistically significant?
+
+2.  Overall, which of the following statements do the results support?
 
     -   a\) On average an increase in working hours is associated with lower scores on the feeling worried variable (therefore feel more worried) but the association is not statistically significant.
 
@@ -30,9 +47,16 @@ He starts with a simple model examining how **frequency of feeling worried about
 
     -   c\) There is a statistically significant effect of working hours on job stress but working hours does not account for much of the variation in job stress.
 
-6\. Summarise the results in one sentence.
+3.  Summarise the results in one sentence.
 
-![](images/clipboard-1912033446.png)
+## Answers
+
+1.  Yes
+
+2.  There is a statistically significant effect of working hours on job stress but working hours does not account for much of the variation in job stress.
+
+3.  An example answer: The results show there is a significant association between working hours and work stress, but the relationship is weak with working hours only accounting for 2.2% of the variation in feelings of worry about work.
+:::
 
 ## Building a model: Gender, working hours and being a supervisor
 
@@ -44,7 +68,10 @@ Now, Marcos builds a multiple regression model to examine factors associated wit
 
 -   being a supervisor (which he predicted is associated with more worry)
 
-1\. From the table of coefficients, which of the following are true.
+::: panel-tabset
+## Questions
+
+From the table of coefficients, which of the following are true.
 
 -   a\. From this model, women indicate feeling more worried than men given years in the workplace and being a supervisor.
 
@@ -57,6 +84,13 @@ Now, Marcos builds a multiple regression model to examine factors associated wit
 -   e\. A and B
 
 -   f\. C and D
+
+## Answers
+
+e\. A and B
+:::
+
+1\.
 
 |                                  |       |            |       |         |      |
 |----------------------------------|-------|------------|-------|---------|------|
